@@ -21,12 +21,5 @@ public class democlass1 {
         driver.findElement(By.className("input-feedback"));
         driver.findElement(By.linkText("Forgot Password?")).click();
 
-
-
-
-
-
-
-
     }
 }
